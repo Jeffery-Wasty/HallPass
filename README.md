@@ -1,2 +1,2 @@
 # HallPass
-https://wasty-jeffery-hall-pass-2.azurewebsites.net
+https://wasty-jeffery-hall-pass.azurewebsites.net
