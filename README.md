@@ -10,11 +10,13 @@ The solution earned us 3rd place in the hackathon. We were quite happy with what
 
 Members of my team:
 
-https://github.com/michael-anderson
+https://github.com/michael-andersen
 
 https://github.com/thisliangwu
 
 https://github.com/Aitherio
+
+https://github.com/jqhoang
 
 
 Demo available at:
