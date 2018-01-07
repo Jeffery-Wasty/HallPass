@@ -8,6 +8,11 @@ Our group decided that something BCIT students often complain about is finding c
 
 The solution earned us 3rd place in the hackathon. We were quite happy with what we managed to do in the given time, and positive regarding how the program can be expanded, including icons for all buildings, details for all resources, more resources, more campuses, and a mobile app.
 
+Members of my team:
+https://github.com/michael-anderson
+https://github.com/thisliangwu
+https://github.com/Aitherio
+
 Demo available at:
 
 https://wasty-jeffery-hall-pass.azurewebsites.net
